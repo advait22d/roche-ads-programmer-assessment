@@ -1,0 +1,15 @@
+Question 1 DS domain creation completed successfully.
+Number of records in DS dataset: 850 
+Variables in final DS dataset:
+ [1] "STUDYID"  "DOMAIN"   "USUBJID"  "DSSEQ"    "DSTERM"   "DSDECOD"  "DSCAT"    "VISITNUM" "VISIT"   
+[10] "DSDTC"    "DSSTDTC"  "DSSTDY"  
+Preview of final DS dataset:
+# A tibble: 6 × 12
+  STUDYID      DOMAIN USUBJID     DSSEQ DSTERM               DSDECOD DSCAT VISITNUM VISIT DSDTC DSSTDTC    DSSTDY
+  <chr>        <chr>  <chr>       <int> <chr>                <chr>   <chr> <chr>    <chr> <iso> <date>      <int>
+1 CDISCPILOT01 DS     01-701-1015     1 FINAL LAB VISIT      Final … OTHE… 13       WEEK… 2014… 2014-07-02    182
+2 CDISCPILOT01 DS     01-701-1015     2 PROTOCOL COMPLETED   COMPLE… DISP… 13       WEEK… 2014… 2014-07-02    182
+3 CDISCPILOT01 DS     01-701-1015     3 RANDOMIZED           RANDOM… PROT… 3        BASE… 2014… 2014-01-02      1
+4 CDISCPILOT01 DS     01-701-1023     1 ADVERSE EVENT        ADVERS… DISP… 5        WEEK… 2012… 2012-09-02     29
+5 CDISCPILOT01 DS     01-701-1023     2 FINAL LAB VISIT      Final … OTHE… 5        WEEK… 2012… 2012-09-02     29
+6 CDISCPILOT01 DS     01-701-1023     3 FINAL RETRIEVAL VIS… Final … OTHE… 201      RETR… 2013… 2013-02-18    198
