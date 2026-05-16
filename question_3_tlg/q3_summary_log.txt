@@ -1,0 +1,5 @@
+Question 3 summary creation completed successfully.
+Number of ADAE records after TEAE filtering: 1122 
+Treatment groups in analysis:
+[1] "Placebo"              "Xanomeline High Dose" "Xanomeline Low Dose" 
+Preview of final TLG:
