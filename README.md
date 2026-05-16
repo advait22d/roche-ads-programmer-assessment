@@ -10,7 +10,7 @@ This repository contains solutions for the Roche ADS Programmer Assessment cover
 - GenAI Clinical Data Assistant using Python
 
 ---
-# Repository Structure
+## Repository Structure
 
 ```text
 roche-ads-programmer-assessment/
