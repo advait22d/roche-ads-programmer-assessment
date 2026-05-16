@@ -10,7 +10,18 @@ This repository contains solutions for the Roche ADS Programmer Assessment cover
 - GenAI Clinical Data Assistant using Python
 
 ---
+# Repository Structure
 
+```text
+roche-ads-programmer-assessment/
+│
+├── question_1_sdtm/
+├── question_2_adam/
+├── question_3_tlg/
+├── question_4_python/
+├── README.md
+```
+---
 ## Question 1 – SDTM Dataset Creation
 
 ### Objective
