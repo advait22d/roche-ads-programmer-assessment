@@ -1,0 +1,28 @@
+Question 3 visualizations completed successfully.
+
+Number of TEAE records:
+[1] 1122
+
+Safety population count:
+[1] 254
+
+Top 10 adverse events:
+# A tibble: 10 × 5
+   AETERM                      n_patients   pct lower_ci upper_ci
+   <chr>                            <int> <dbl>    <dbl>    <dbl>
+ 1 PRURITUS                            54 21.3     16.4      26.8
+ 2 APPLICATION SITE PRURITUS           50 19.7     15.0      25.1
+ 3 ERYTHEMA                            36 14.2     10.1      19.1
+ 4 APPLICATION SITE ERYTHEMA           30 11.8      8.11     16.4
+ 5 RASH                                26 10.2      6.80     14.6
+ 6 APPLICATION SITE DERMATITIS         21  8.27     5.19     12.4
+ 7 APPLICATION SITE IRRITATION         21  8.27     5.19     12.4
+ 8 DIZZINESS                           21  8.27     5.19     12.4
+ 9 DIARRHOEA                           17  6.69     3.95     10.5
+10 SINUS BRADYCARDIA                   17  6.69     3.95     10.5
+
+Visualization 1 saved as:
+[1] "question_3_tlg/severity_dist.png"
+
+Visualization 2 saved as:
+[1] "question_3_tlg/top10_ae.png"
